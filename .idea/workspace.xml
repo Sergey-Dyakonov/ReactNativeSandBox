@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a6aa77b1-0062-4254-adef-14ffeeffcf23" name="Changes" comment="" />
+    <list default="true" id="a6aa77b1-0062-4254-adef-14ffeeffcf23" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/Heading.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/debug.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/java/com/reactnativesandbox/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/java/com/reactnativesandbox/MainApplication.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/drawable/rn_edit_text_material.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/drawable/splashscreen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/drawable/splashscreen_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/.xcode.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/Podfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/Podfile.properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox.xcodeproj/xcshareddata/xcschemes/ReactNativeSandBox.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/AppDelegate.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/AppDelegate.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Images.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Images.xcassets/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Images.xcassets/SplashScreen.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Images.xcassets/SplashScreen.imageset/splashscreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Images.xcassets/SplashScreenBackground.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Images.xcassets/SplashScreenBackground.imageset/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/SplashScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/Supporting/Expo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/ios/ReactNativeSandBox/main.m" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/metro.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TodoApp/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,9 +90,34 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ReactNativeSandBox" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="ReactNative" factoryName="React Native">
+      <working-dir value="$PROJECT_DIR$/ReactNativeSandBox" />
+      <node-interpreter value="/usr/local/Cellar/node/21.6.0/bin/node" />
+      <react-native value="/usr/local/lib/node_modules/react-native-cli" />
+      <platform value="IOS" />
+      <envs />
+      <only-packager />
+      <browser value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <method v="2">
+        <option name="ReactNativePackager" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,8 +126,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705865452783</updated>
-      <workItem from="1705865453870" duration="2000" />
+      <workItem from="1705865453870" duration="9800000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
